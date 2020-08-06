@@ -1,0 +1,15 @@
+br\com\test\config\authentication\CustomUserDetails.class
+br\com\test\ServletInitializer.class
+br\com\test\interceptor\OAuth2RestTemplateInterceptor.class
+br\com\test\domain\User.class
+br\com\test\config\WebApplicationContextLocator.class
+br\com\test\SecurityserverAuthApplication.class
+br\com\test\filter\SimpleCORSFilter.class
+br\com\test\config\OAuth2ServerConfiguration$AuthorizationServerConfiguration.class
+br\com\test\SecurityserverAuthApplication$ResourceServerConfiguration.class
+br\com\test\config\WebSecurityConfiguration.class
+br\com\test\config\RestTemplateConfig.class
+br\com\test\repository\UserRepository.class
+br\com\test\config\OAuth2ServerConfiguration$ResourceServerConfiguration.class
+br\com\test\config\OAuth2ServerConfiguration.class
+br\com\test\service\UserService.class

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86b934ee-9cd6-47cb-b41f-74e141ab9274" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1arxGS8PupkZsZoqCK3aFL81J2f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.test.repository" />
+      <recent name="br.com.test.service" />
+      <recent name="br.com.test.domain" />
+      <recent name="br.com.test.interceptor" />
+      <recent name="br.com.test.config.filter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\Workspace\security-auth" />
+      <recent name="C:\dev\Workspace\security-auth\src\main\resources" />
+      <recent name="C:\dev\Workspace\security-auth\src\main\java\br\com\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UserService">
+    <configuration name="OAuth2ServerConfiguration$AuthorizationServerConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.config.OAuth2ServerConfiguration$AuthorizationServerConfiguration" />
+      <module name="security-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityserverAuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.SecurityserverAuthApplication" />
+      <module name="security-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.service.UserService" />
+      <module name="security-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSecurityConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.test.config.WebSecurityConfiguration" />
+      <module name="security-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.test.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.SecurityserverAuthApplication" />
+        <item itemvalue="Application.OAuth2ServerConfiguration$AuthorizationServerConfiguration" />
+        <item itemvalue="Application.WebSecurityConfiguration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86b934ee-9cd6-47cb-b41f-74e141ab9274" name="Default Changelist" comment="" />
+      <created>1587507417989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587507417989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596588685555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596588685555" />
+    <state x="655" y="443" width="726" height="580" key="#xdebugger.evaluate" timestamp="1596588573232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-949" y="282" width="726" height="580" key="#xdebugger.evaluate/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588091064854" />
+    <state x="655" y="338" key="#xdebugger.evaluate/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588963675862" />
+    <state x="655" y="443" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1596588573232" />
+    <state width="600" height="564" key="DebuggerActiveHint" timestamp="1596588226969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588090809834" />
+    <state width="600" height="564" key="DebuggerActiveHint/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1588966764430" />
+    <state width="600" height="564" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1596588226969" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1596718025917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596718025917" />
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom" timestamp="1596636101531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190642" />
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596636101531" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849328" />
+    <state width="1877" height="367" key="GridCell.Tab.0.center" timestamp="1596636101531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190642" />
+    <state width="1877" height="367" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596636101531" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849327" />
+    <state width="1877" height="367" key="GridCell.Tab.0.left" timestamp="1596636101531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190642" />
+    <state width="1877" height="367" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596636101531" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849327" />
+    <state width="1877" height="367" key="GridCell.Tab.0.right" timestamp="1596636101531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190642" />
+    <state width="1877" height="367" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596636101531" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849327" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596590849320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589204771683" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849320" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596590849319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589204771683" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849319" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596590849319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589204771683" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849319" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596590849320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589212190643" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589204771683" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596590849320" />
+    <state x="-1371" y="78" width="1302" height="708" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589207870275">
+      <screen x="-1440" y="2" width="1440" height="860" />
+    </state>
+    <state x="-1371" y="78" width="1302" height="708" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589207870275" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589203913395" />
+    <state x="571" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1596636306213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1012" y="261" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588166137426" />
+    <state x="571" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596636306213" />
+    <state x="571" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589197716726" />
+    <state x="667" y="276" width="804" height="591" key="find.popup" timestamp="1596718333531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-940" y="230" width="603" height="488" key="find.popup/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1589208232164" />
+    <state x="667" y="276" width="804" height="591" key="find.popup/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1596718333531" />
+    <state x="667" y="276" width="603" height="488" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589135206631" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1596588230368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596588230368" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1589204200650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-978" y="145" width="670" height="559" key="search.everywhere.popup/0.0.1920.1040/-1440.2.1440.860@-1440.2.1440.860" timestamp="1588089026959" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/-1440.2.1440.860@0.0.1920.1040" timestamp="1589204200650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/TokenRequest.class</url>
+          <line>46</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.class</url>
+          <line>52</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.class</url>
+          <line>224</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.class</url>
+          <line>270</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.class</url>
+          <line>77</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.class</url>
+          <line>234</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/test/config/OAuth2ServerConfiguration.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/5.2.0.RELEASE/spring-security-crypto-5.2.0.RELEASE-sources.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.class</url>
+          <line>188</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.class</url>
+          <line>199</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/test/config/OAuth2ServerConfiguration.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/KeyStoreKeyFactory.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/security/KeyStore.java</url>
+          <line>1444</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/security/provider/JavaKeyStore.class</url>
+          <line>283</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

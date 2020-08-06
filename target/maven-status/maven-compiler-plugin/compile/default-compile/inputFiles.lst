@@ -1,0 +1,12 @@
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\config\authentication\CustomUserDetails.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\filter\SimpleCORSFilter.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\config\OAuth2ServerConfiguration.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\domain\User.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\ServletInitializer.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\SecurityserverAuthApplication.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\interceptor\OAuth2RestTemplateInterceptor.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\config\WebApplicationContextLocator.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\config\RestTemplateConfig.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\config\WebSecurityConfiguration.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\repository\UserRepository.java
+c:\dev\Workspace\security-auth\src\main\java\br\com\test\service\UserService.java
